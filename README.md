@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Airport Pickup to Ubud & Gianyar</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; background-color: #f9f9f9; color: #333; }
+    h1 { color: #2c3e50; }
+    h2 { color: #34495e; }
+    p { line-height: 1.6; }
+    .button {
+      display: inline-block;
+      padding: 12px 20px;
+      font-size: 18px;
+      color: white;
+      background-color: #28a745;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 20px;
+    }
+    .note { color: #e67e22; font-style: italic; }
+  </style>
+</head>
+<body>
+
+  <h1>Airport Pickup Transfer to Ubud & Gianyar</h1>
+
+  <h2>Comfortable, Reliable, and Private Transfers from Bali Airport</h2>
+
+  <p>Start your journey in Bali the right way — with a <strong>stress-free, comfortable private airport transfer</strong> to Ubud or Gianyar.</p>
+
+  <h2>Our Service Includes:</h2>
+  <ul>
+    <li><strong>Private Car:</strong> Max 4 passengers + luggage</li>
+    <li><strong>Flat Rate:</strong> IDR 500,000 per transfer</li>
+    <li><strong>Direct Pickup:</strong> From Ngurah Rai International Airport (DPS) to Ubud or Gianyar</li>
+    <li><strong>Professional Driver:</strong> Friendly, safe, and experienced</li>
+    <li><strong>Clean and Comfortable Vehicle</strong></li>
+  </ul>
+
+  <p class="note">*Additional charge applies for pickups after 10:00 PM.</p>
+
+  <h2>Why Choose Us?</h2>
+  <ul>
+    <li>No hidden fees — transparent and fixed pricing</li>
+    <li>Punctual and reliable — your driver will be waiting for you</li>
+    <li>Local knowledge — our drivers know the best routes</li>
+    <li>Simple booking via WhatsApp</li>
+  </ul>
+
+  <h2>Book Your Transfer Today!</h2>
+  <p><strong>WhatsApp:</strong> <a class="button" href="https://wa.me/6281936961368" target="_blank">+62 819-3696-1368</a></p>
+
+  <p>Relax and enjoy Bali from the moment you land!</p>
+
+</body>
+</html>
